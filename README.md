@@ -1,5 +1,6 @@
 # Atividade-Padroes-de-Desenvolvimento-de-Software
 Atividade de identificação de Code Smells em código.
+Integrantes: Samuel Arthur, José Bento e Gabriel Carneiro
 
 ```ts
 class SistemaBiblioteca {
